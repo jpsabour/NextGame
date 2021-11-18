@@ -32,5 +32,6 @@ namespace Game2Play.Models
         public string ConfirmPassword { get; set; }
         public DateTime CreatedOn { get; set; }
 
+        public string SuccessMessage { get; set; }
     }
 }

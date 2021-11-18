@@ -1,6 +1,5 @@
-# NextGame
-NextGame.com
+# NextGame.com
 
-Find out what game you should play next!
+Use games you enjoyed in the past to find similar games you should play next!
 
 ASP.NET MVC web app
